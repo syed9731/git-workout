@@ -1,2 +1,4 @@
 first content from branch_a
 second content from branch_a
+
+purpose is to create conflict here
