@@ -1,1 +1,3 @@
 content from master branch
+content form conf branch
+added by resetting a commit
